@@ -1,5 +1,7 @@
 
 # Hi ,I’m Arpan sood 
+# Education 
+- I am currently in my final year of B.Com
 # Aspiring Data Analyst
 I'm passionate about turning data into actionable insights and continuously improving my analytical skills through hands-on projects.
 # Currently Learning
