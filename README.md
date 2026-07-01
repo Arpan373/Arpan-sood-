@@ -1,4 +1,4 @@
-# Arpan-sood
+
 # Hi ,I’m Arpan sood 
 # Aspiring Data Analyst
 I'm passionate about turning data into actionable insights and continuously improving my analytical skills through hands-on projects.
